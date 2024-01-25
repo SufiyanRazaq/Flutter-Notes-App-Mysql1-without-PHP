@@ -1,16 +1,23 @@
-# noteapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Flutter-Notes-App-Mysql1-without-PHP
+![Screenshot_1692311241](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/08c97fdf-6404-42da-841d-29b9350e8b6d)
+![Screenshot_1692311236](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/5466399d-5805-49a8-b2bd-18206c5c39ee)
+![Screenshot_1692311233](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/f78f0a11-7f01-4e2a-8303-aadba12a27c5)
+![Screenshot_1692311228](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/3c65dd7f-4f68-4b9d-b43c-d8cc09032ac9)
+![Screenshot_1692312248](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/24b9568e-c824-4e02-b068-6d23ead98695)
+![Screenshot_1692312234](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/d6f283f7-e286-46da-8e3b-e35be9dd4dca)
+![Screenshot_1692312186](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/ebca496a-6616-4140-922b-fb88efb1e29f)
+![Screenshot_1692311749](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/3a3d1106-3c7e-4786-b935-e227b7c56966)
+![Screenshot_1692311241](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/f67c7970-770c-4e29-93c7-b4ab38cdfb44)
+![Screenshot_1692311236](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/5b31dc3b-f81d-4e3d-a5d1-ad54df0d4a29)
+![Screenshot_1692311233](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/7049e33b-e944-4c68-88e7-174b12f73d58)
+![Screenshot_1692311228](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/2e200af8-1c0a-4b49-aac1-6aab18dde4d7)
+![Screenshot_1692311178](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/b09eac06-eeaf-4ae9-8671-667a4810b5e9)
+![Screenshot_1692311174](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/7126a5a9-550a-4fb1-928c-34ced524cdb5)
+![Screenshot_1692311165](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/40feae7f-25ee-4d65-9c9f-439f4e9278bb)
+![Screenshot_1692311128](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/a2156524-b748-4fa7-b99e-d85170097edc)
+![Screenshot_1692311088](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/47141fba-166a-4578-99a0-f05c1ce487b4)
+![Screenshot_1692311080](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/4fdca488-3fa9-4cee-8601-4fef248fcda1)
+![Screenshot_1692311069](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/1a33df20-cd5f-4dc7-81a8-01993a6af934)
+![Screenshot_1692310864](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/e657161d-38c5-467a-a78f-2ac5323541e5)
+![Screenshot_1692312320](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/06424486-e6cb-4688-becb-c6a2d1282cca)
+![Screenshot_1692312316](https://github.com/SufiyanRazaq/Flutter-Notes-App-Mysql1-without-PHP/assets/119070430/e785588b-eba9-4326-ad0c-bef497d0ae99)
